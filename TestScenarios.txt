@@ -1,0 +1,63 @@
+Test Case 1: Basic Search
+
+Description: Verify that a basic search for "prowly" on Google returns relevant results.
+Test Steps:
+Open a web browser and navigate to www.google.com.
+In the search bar, enter "prowly" and press Enter.
+Observe the search results page.
+Expected Result: The search results should include a variety of web pages, news articles, and other content related to "prowly."
+
+Test Case 2: Filtering by Content Category (News)
+
+Description: Verify that filtering search results for "prowly" by the "News" category displays news articles related to "prowly."
+Test Steps:
+Open a web browser and navigate to www.google.com.
+In the search bar, enter "prowly" and press Enter.
+Click on the "News" tab located below the search bar.
+Expected Result: The search results should now include only news articles about "prowly." Other types of content, such as web pages and videos, should be excluded.
+
+Test Case 3: Filtering by Content Category (Video)
+
+Description: Verify that filtering search results for "prowly" by the "Video" category displays video content related to "prowly."
+Test Steps:
+Open a web browser and navigate to www.google.com.
+In the search bar, enter "prowly" and press Enter.
+Click on the "Videos" tab located below the search bar.
+Expected Result: The search results should now include only video content related to "prowly." Other types of content, such as web pages and news articles, should be excluded.
+
+Test Case 4: Basic Search with Date Filter
+
+Description: Verify that a basic search for "prowly" on Google.com with a specific date filter returns relevant results for that date.
+Test Steps:
+Open a web browser and navigate to www.google.com.
+In the search bar, enter "prowly" and press Enter.
+Click on "Tools" below the search bar to open the date filter options.
+Select a specific date or date range (e.g., "Past 24 hours," "Past week," or a custom date range).
+Observe the search results.
+Expected Result: The search results should include content related to "prowly" that matches the selected date or date range.
+
+Test Case 5: Filtering by Custom Date Range
+
+Description: Verify that filtering search results for "prowly" by a custom date range returns results within the specified range.
+Test Steps:
+Open a web browser and navigate to www.google.com.
+In the search bar, enter "prowly" and press Enter.
+Click on "Tools" below the search bar to open the date filter options.
+Select the "Custom range" option.
+Specify a custom date range, such as "From [specific date] to [specific date]."
+Observe the search results.
+Expected Result: The search results should include content related to "prowly" that falls within the specified custom date range.
+
+Test Case 6: Clearing Date Filter
+
+Description: Verify that the "Clear" or "Reset" option for the date filter works as expected.
+Test Steps:
+Open a web browser and navigate to www.google.com.
+In the search bar, enter "prowly" and press Enter.
+Click on "Tools" below the search bar to open the date filter options.
+Select a specific date or date range (e.g., "Past 24 hours").
+Observe the search results filtered by the selected date.
+Click on the "Clear" or "Reset" button to remove the date filter.
+Observe the search results after clearing the filter.
+Expected Result (Step 5): The search results should be filtered according to the selected date or date range.
+Expected Result (Step 7): After clearing the date filter, the search results should revert to their default state, showing results for all dates.
